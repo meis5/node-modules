@@ -1,0 +1,13 @@
+{
+  "name": "node-modules",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/meis5/node-modules.git",
+  "author": "meis5 <meis5@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^2.5.1",
+    "webpack-bundle-analyzer": "^2.7.0",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
